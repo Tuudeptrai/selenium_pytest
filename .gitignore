@@ -1,0 +1,30 @@
+# Editors
+.vscode/
+.idea/
+
+# Mac/OSX
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# python
+.pytest_cache
+__pycache__/
+*.py[cod]
+*$py.class
+reports/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs
+Logs/
+#screen shot
+screenshots/

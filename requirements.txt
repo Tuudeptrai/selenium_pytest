@@ -1,0 +1,13 @@
+webdriver-manager
+pytest-html
+pytest-xdist
+openpyxl
+allure-pytest
+selenium
+pytest
+requests
+pyotp
+beautifulsoup4
+jsonpath
+Pillow
+Selenium-Screenshot
